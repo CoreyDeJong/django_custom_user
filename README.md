@@ -1,0 +1,1 @@
+https://github.com/CoreyDeJong/django_custom_user/pull/1
